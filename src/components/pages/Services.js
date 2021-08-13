@@ -19,7 +19,7 @@ export default function Services() {
        width: "40%",
        position: 'fixed',
        zIndex: '-1'}} 
-       src="/images/Coast1.jpg"/>
+       src="/images/sandiegopotato.jpg"/>
       <h1 style={{color: 'white'}}>ABOUT</h1>
     </div>
     <Entry1/>

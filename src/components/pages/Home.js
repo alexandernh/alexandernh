@@ -15,9 +15,9 @@ function Home() {
   return (
     <>
       <HeroSection />
-      <Cards />
-      <Footer />
-      <Cool />
+      {/* <Cards />
+      <Footer /> */}
+      {/* <Cool /> */}
     </>
   );
 }
