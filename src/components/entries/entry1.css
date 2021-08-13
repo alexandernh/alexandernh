@@ -1,0 +1,23 @@
+.entry {
+    padding: 2rem;
+    background-color: white;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .entry__container {
+    height: 300vh;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    max-width: 1120px;
+    width: 90%;
+    margin: 0 auto;
+  }
+  
+  .entry__wrapper {
+    position: relative;
+    margin: 50px 0 45px;
+  }
