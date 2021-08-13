@@ -20,8 +20,9 @@ export default function Services() {
        position: 'fixed',
        zIndex: '-1'}} 
        src="/images/Coast1.jpg"/>
-      <h1 style={{color: 'white'}}>ENTRIES</h1>
+      <h1 style={{color: 'white'}}>ABOUT</h1>
     </div>
+    <Entry1/>
     <Footer />
     </div>
     );

@@ -19,7 +19,7 @@ export default function SignUp() {
        position: 'fixed',
        zIndex: '-1'}} 
        src="/images/camp.png"/>
-      <h1 style={{color: 'white'}}>VIDEOS</h1>
+      <h1 style={{color: 'white'}}>EXPERIENCE</h1>
     </div>
       <Footer/>
     </div>

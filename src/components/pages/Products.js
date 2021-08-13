@@ -18,7 +18,7 @@ export default function Products() {
        position: 'fixed',
        zIndex: '-1'}} 
        src="/images/Prod.jpg"/>
-      <h1 style={{color: 'white'}}>PRODUCTS</h1>
+      <h1 style={{color: 'white'}}>RESUME</h1>
     </div>
     <Footer/>
   </div>

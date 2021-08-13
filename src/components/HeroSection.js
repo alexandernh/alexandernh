@@ -20,7 +20,7 @@ function HeroSection() {
           buttonStyle='btn--outline'
           buttonSize='btn--large'
         >
-          GET STARTED
+          ABOUT
         </ButtonSubscribe>
         <ButtonSubscribe
           className='btns'
@@ -28,7 +28,7 @@ function HeroSection() {
           buttonSize='btn--large'
           onClick={console.log('hey')}
         >
-          OUR STATEMENT <i className='far fa-play-circle' />
+          EXPERIENCE <i className='far fa-play-circle' />
         </ButtonSubscribe>
       </div>
     </div>

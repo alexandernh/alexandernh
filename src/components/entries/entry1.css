@@ -3,8 +3,8 @@
     background-color: white;
   }
   
-  h1 {
-    text-align: center;
+  h1, h2, h3 {
+    text-align: left;
   }
   
   .entry__container {
@@ -13,11 +13,29 @@
     flex-flow: column;
     align-items: center;
     max-width: 1120px;
-    width: 90%;
+    width: 70%;
     margin: 0 auto;
   }
   
   .entry__wrapper {
     position: relative;
     margin: 50px 0 45px;
+  }
+
+  .column1 {
+    float: left;
+    width: 50%;
+    padding-right: 5%;
+  }
+
+  .column {
+    float: left;
+    width: 50%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
   }
