@@ -42,7 +42,7 @@ function Footer() {
               <i class='fab fa-linkedin' />
             </Link>
           </div>
-          <p style={{paddingTop:'2%', color:'white'}}>Site made by Alex Ho in React</p>
+          <p style={{paddingTop:'2%', color:'black'}}>Site made by Alex Ho in React</p>
         </div>
       </section>
     </div>

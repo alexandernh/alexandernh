@@ -136,8 +136,10 @@ function HeroSection() {
         src="/images/sandiegopotato.jpg"/>
       </div>
 
-       <div style={{height: '8000px'}}>
-
+       <div style={{height: '8000px', justifyContent: 'center', alignContent: 'center', alignItems: 'center'}}>
+        <div style={{paddingTop: '7990px', paddingBottom: '35px', textAlign: 'center'}}>
+          <h3 style={{color: 'black', textAlign: 'center'}}>Made in React by Alex Ho</h3>
+        </div>
       </div>
     </div>
   );
