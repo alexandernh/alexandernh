@@ -21,8 +21,8 @@ export default function Products() {
        width: "40%",
        position: 'fixed',
        zIndex: '-1'}} 
-       src="/images/Prod.jpg"/>
-      <div className='hero-btns'>
+       src="/images/alex.jpg"/>
+      <div className='hero-btns' style={{paddingBottom: '20%'}}>
       <a href="/images/alex.jpg" download="AlexHoResume">
         {/* <ButtonSubscribe
           className='btns'
