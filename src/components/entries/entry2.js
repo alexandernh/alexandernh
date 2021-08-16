@@ -8,40 +8,35 @@ function Entry2() {
       <div className='entry__container'>
         <div className='entry__wrapper'>
           <div className='row' style={{borderBottom: '5px solid grey'}}>
-              <div className='column1' style={{paddingRight: '5%'}}>
-                <img style={{ width:"100%", height: '100%'}} src="/images/jpmc.jpg"/>
+              <div className='column1' style={{paddingTop: '2%'}}>
+                <h1 style={{textAlign: 'center'}}>JPMorgan Chase & Co.</h1>
+                <h2 style={{textAlign: 'center'}}>Software Engineer Intern</h2>
+                <p style={{textAlign: 'center'}}>Summer 2021</p>              
               </div>
               <div className='column'>
-                <h1>JPMorgan Chase & Co.</h1>
-                <h2>Software Engineer Intern</h2>
-                <p>Summer 2021</p>
-                <h3 style={{paddingTop: '2%'}}>The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.</h3>
+                <h3 style={{paddingRight: '12%'}}>Created a self-service tool that allows business partners to create machine learned NER models, test them, and publish them into consumable APIs. APIs extract key entities and classify documents by type. Product is currently in production and is being used by three LOBs</h3>
               </div>
           </div>
-          <div className='row' style={{paddingTop: '6%', borderBottom: '5px solid grey'}}>
+          <div className='row' style={{borderBottom: '5px solid grey'}}>
+              <div className='column1' style={{paddingTop: '8%'}}>
+                <h1 style={{textAlign: 'center'}}>Charles Schwab</h1>
+                <h2 style={{textAlign: 'center'}}>Software Engineer Intern</h2>
+                <p style={{textAlign: 'center'}}>Summer 2020</p>              
+              </div>
               <div className='column'>
-                <h1>Charles Schwab</h1>
-                <h2>Software Engineer Intern</h2>
-                <p>Summer 2020</p>
-                <h3 style={{paddingTop: '2%'}}>The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.</h3>
-              </div>
-              <div className='column1' style={{paddingLeft: '5%', paddingBottom: '5%'}}>
-                <img style={{ width:"100%", height: '100%'}} src="/images/cs.png"/>
+                <h3 style={{paddingTop: '12%'}}>Developed and managed a product that provides an efficient way to review and compare Transmit Security Artifacts. Practiced Test Driven Development, followed S.O.L.I.D. Principles, and utilized the Angular framework as a developer. Created product's KBIs, Metrics, and Key Results and empathized with personas as a project manager.</h3>
               </div>
           </div>
-          <div className='row' style={{paddingTop: '6%'}}>
-              <div className='column1' style={{paddingRight: '5%', paddingTop: '2%'}}>
-                <img style={{ width:"100%", height: '100%'}} src="/images/l3.jpg"/>
+          <div className='row'>
+              <div className='column1' style={{paddingTop: '6%'}}>
+                <h1 style={{textAlign: 'center'}}>L3Harris</h1>
+                <h2 style={{textAlign: 'center'}}>Big-Data Engineer Co-Op</h2>
+                <p style={{textAlign: 'center'}}>Summer & Fall 2019</p>              
               </div>
-              <div className='column' style={{paddingBottom: '5%'}}>
-                <h1>L3Harris</h1>
-                <h2>Big Data Engineer Co-Op</h2>
-                <p>Summer & Fall 2019</p>
-                <h3 style={{paddingTop: '2%'}}>The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.</h3>
+              <div className='column'>
+                <h3 style={{paddingTop: '12%'}}>Worked on a team to complete a product that provides semantic analysis and named-entity recognition. Focused on the product’s UI/UX, data serialization and deserialization process, and CI/CD pipeline. Setup and hosted UI/UX meetings with the PO and presented the final product.</h3>
               </div>
           </div>
-            <div className='row1'>
-            </div>
           </div>
         </div>
       </div>
