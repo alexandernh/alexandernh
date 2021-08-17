@@ -1,10 +1,6 @@
 import React from 'react';
 import '../../App.css';
-import Entry3 from '../entries/entry3';
-import Footer from '../Footer';
-import { ButtonSubscribe } from '../ButtonSubsrcibe';
-import HeroSection from '../HeroSection';
-import { Button } from '../Button';
+import Footer2 from '../Footer2';
 
 function componentDidMount() {
   window.scrollTo(0, 0)
@@ -14,7 +10,7 @@ export default function Products() {
   componentDidMount();
   return (
   <div>
-    <div className='services-container'>
+    <div className='services-container2'>
       <img style={{objectFit: 'cover',
       //  opacity: '0.2',
        height: '75%',
@@ -23,7 +19,7 @@ export default function Products() {
        zIndex: '-1'}} 
        src="/images/alex.jpg"/>
       <div className='hero-btns' style={{paddingBottom: '20%'}}>
-      <a href="/images/alex.jpg" download="AlexHoResume">
+      <a href="/images/resume.pdf" download="AlexHoResume">
         {/* <ButtonSubscribe
           className='btns'
           buttonStyle='btn--outline'
@@ -31,10 +27,13 @@ export default function Products() {
         >
           RESUME
         </ButtonSubscribe> */}
-        <button>Resume</button>
+        <button style={{background: 'transparent', paddingTop: '3px', paddingBottom: '3px',paddingInline: '10px', color:'white', borderLeftColor: 'white', borderRightColor: 'white', cursor: 'pointer', borderBlockColor: 'white', borderColor: 'white', borderStyle: 'solid'}}>MY RESUME</button>
         </a>
       </div>    
     </div>
+    <Footer2 />
+    {/* <p style={{textAlign: 'center'}}>p.s. photography has always been on the backburner for me and so</p> */}
+    {/* <p style={{textAlign: 'center'}}>I'm grateful for this channel to show a glimpse of what has been in stock.</p> */}
   </div>
   );
 }

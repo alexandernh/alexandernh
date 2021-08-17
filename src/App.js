@@ -20,9 +20,9 @@ function App() {
         <Navbar />
         <Switch>
           <Route path='/' exact component={Home} />
-          <Route path='/services' component={Services} />
-          <Route path='/products' component={Products} />
-          <Route path='/sign-up' component={SignUp} />
+          <Route path='/about' component={Services} />
+          <Route path='/resume' component={Products} />
+          <Route path='/experience' component={SignUp} />
           <Route path='/entry1' component={Entry1Page} />
           <Route path='/entry2' component={Entry2Page} />
           <Route path='/entry3' component={Entry3Page} />

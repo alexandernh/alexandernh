@@ -26,6 +26,12 @@
     margin: 50px 0 0px;
   }
 
+  .entry__wrapper1 {
+    position: relative;
+    min-width: 550px;
+    margin: 0px 0 0px;
+  }
+
   .column1 {
     float: left;
     width: 45%;

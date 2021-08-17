@@ -10,22 +10,6 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='social-icons'>
             <Link
-              class='social-icon-link facebook'
-              to='/'
-              target='_blank'
-              aria-label='Facebook'
-            >
-              <i class='fab fa-facebook-f' />
-            </Link>
-            <Link
-              class='social-icon-link instagram'
-              to='/'
-              target='_blank'
-              aria-label='Instagram'
-            >
-              <i class='fab fa-instagram' />
-            </Link>
-            <Link
               class='social-icon-link youtube'
               to='/'
               target='_blank'
@@ -42,7 +26,7 @@ function Footer() {
               <i class='fab fa-linkedin' />
             </Link>
           </div>
-          <p style={{paddingTop:'2%', color:'black'}}>Site made by Alex Ho in React</p>
+          <p style={{paddingTop:'1%', color:'black'}}>Site made by Alex Ho in React</p>
         </div>
       </section>
     </div>

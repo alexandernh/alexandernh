@@ -70,56 +70,56 @@ function HeroSection() {
           height: '92%',
           width: "40%",
           zIndex: '1', paddingTop: '100px'}} 
-        src="/images/loganBike.jpg"/>
+        src="/images/potatosunset.jpg"/>
       </div>
       <div className="hero-container1"  id="theFixed2" style={{position:'fixed'}}> 
         <img style={{objectFit: 'cover',
           height: '92%',
           width: "40%",
           zIndex: '1', paddingTop: '135px'}} 
-        src="/images/alexbanana.jpg"/>
+        src="/images/canon.jpg"/>
       </div>
       <div className="hero-container1"  id="theFixed3" style={{position:'fixed'}}> 
         <img style={{objectFit: 'cover',
           height: '92%',
           width: "40%",
           zIndex: '1', paddingTop: '170px'}} 
-        src="/images/camp.png"/>
+        src="/images/doge.jpg"/>
       </div>
       <div className="hero-container1"  id="theFixed4" style={{position:'fixed'}}> 
         <img style={{objectFit: 'cover',
           height: '92%',
           width: "40%",
           zIndex: '1', paddingTop: '205px'}} 
-        src="/images/prod.jpg"/>
+        src="/images/seatle0.jpg"/>
       </div>
       <div className="hero-container1"  id="theFixed5" style={{position:'fixed'}}> 
         <img style={{objectFit: 'cover',
           height: '92%',
           width: "40%",
           zIndex: '1', paddingTop: '240px'}} 
-        src="/images/alex.jpg"/>
+        src="/images/city.jpg"/>
       </div>
       <div className="hero-container1"  id="theFixed6" style={{position:'fixed'}}> 
         <img style={{objectFit: 'cover',
           height: '92%',
           width: "40%",
           zIndex: '1', paddingTop: '275px'}} 
-        src="/images/alexzion.jpg"/>
+        src="/images/windowsunset.jpg"/>
       </div>
       <div className="hero-container1"  id="theFixed7" style={{position:'fixed'}}> 
         <img style={{objectFit: 'cover',
           height: '92%',
           width: "40%",
           zIndex: '1', paddingTop: '310px'}} 
-        src="/images/computer.jpg"/>
+        src="/images/loganbike.jpg"/>
       </div>
       <div className="hero-container1"  id="theFixed8" style={{position:'fixed'}}> 
         <img style={{objectFit: 'cover',
           height: '92%',
           width: "40%",
           zIndex: '1', paddingTop: '345px'}} 
-        src="/images/pizza.jpg"/>
+        src="/images/campblurry.jpg"/>
       </div>
       <div className="hero-container1"  id="theFixed9" style={{position:'fixed'}}> 
         <img style={{objectFit: 'cover',
@@ -133,12 +133,12 @@ function HeroSection() {
           height: '92%',
           width: "40%",
           zIndex: '1', paddingTop: '415px'}} 
-        src="/images/sandiegopotato.jpg"/>
+        src="/images/ocean.jpg"/>
       </div>
 
        <div style={{height: '8000px', justifyContent: 'center', alignContent: 'center', alignItems: 'center'}}>
         <div style={{paddingTop: '7990px', paddingBottom: '35px', textAlign: 'center'}}>
-          <h3 style={{color: 'black', textAlign: 'center'}}>Made in React by Alex Ho</h3>
+          <h3 style={{color: 'black', textAlign: 'center'}}>Welcome : )</h3>
         </div>
       </div>
     </div>

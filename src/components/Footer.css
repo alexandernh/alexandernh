@@ -24,16 +24,16 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 49.5%;
+  width: 35%;
   max-width: 1000px;
-  margin: 90px auto 0 auto;
+  margin: 0 auto 0 auto;
 }
 
 .social-icons {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 160px;
+  width: 80px;
 }
 
 .social-logo {
