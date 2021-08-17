@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alexandernh/static/css/main.1bebe6d2.chunk.css",
+    "main.js": "/alexandernh/static/js/main.2b85e98c.chunk.js",
+    "main.js.map": "/alexandernh/static/js/main.2b85e98c.chunk.js.map",
+    "runtime-main.js": "/alexandernh/static/js/runtime-main.2104e204.js",
+    "runtime-main.js.map": "/alexandernh/static/js/runtime-main.2104e204.js.map",
+    "static/js/2.ed9d53b8.chunk.js": "/alexandernh/static/js/2.ed9d53b8.chunk.js",
+    "static/js/2.ed9d53b8.chunk.js.map": "/alexandernh/static/js/2.ed9d53b8.chunk.js.map",
+    "index.html": "/alexandernh/index.html",
+    "precache-manifest.4c072a68569fc2f1ca203648050c48ea.js": "/alexandernh/precache-manifest.4c072a68569fc2f1ca203648050c48ea.js",
+    "service-worker.js": "/alexandernh/service-worker.js",
+    "static/css/main.1bebe6d2.chunk.css.map": "/alexandernh/static/css/main.1bebe6d2.chunk.css.map",
+    "static/js/2.ed9d53b8.chunk.js.LICENSE.txt": "/alexandernh/static/js/2.ed9d53b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2104e204.js",
+    "static/js/2.ed9d53b8.chunk.js",
+    "static/css/main.1bebe6d2.chunk.css",
+    "static/js/main.2b85e98c.chunk.js"
+  ]
+}
